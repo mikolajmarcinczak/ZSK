@@ -22,5 +22,7 @@
 
     ##############################################################
 
+    $lorem = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente provident similique maiores earum deleniti deserunt? Vel, reiciendis inventore facere, rerum ex adipisci excepturi amet deleniti recusandae obcaecati ipsa corporis ipsam fuga! Quibusdam molestias, aut nihil natus architecto incidunt voluptates veniam.';
 
+    echo ucwords($lorem), '<br>';
 ?>
